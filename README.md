@@ -1,6 +1,6 @@
 # Scheduler-Study Assistant
 
-The 'Study Assistant' is a web based time schedule management system for students. Built as part of my final year project for the Bachelor of Information Technology degree offered by the University of Moratuwa, this system assists students in the following ways.
+The 'Scheduler-StudyAssistant' is a web based time schedule management system for students. Built as part of my final project for the CS5ox online course offered by the Harvard University, this system assists students in the following ways:-
 
 * It creates customized study schedules based on students' modules
 * It provides detailed analysis about modules based on data collected from students
