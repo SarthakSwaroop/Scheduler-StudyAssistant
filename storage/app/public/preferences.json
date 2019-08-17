@@ -1,0 +1,10 @@
+{
+    "params": [
+        "norm_comp",
+        "name",
+        "norm_fail",
+        "rating"
+    ],
+    "algorithm": "rf",
+    "threshold": "3000"
+}
